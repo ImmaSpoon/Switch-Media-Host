@@ -3,7 +3,7 @@
 Host your Switch media over LAN. (Only pictures supported, for now.)
 
 ## What is this?
-This is a simple python script that allows you to see your Switch screenshots directly from your smart device's browser! This allows for easier transfering, and has a simple design to it.
+This is a simple python script that allows you to see your Switch screenshots directly from your smart device's browser! This allows for easier transfering, and has a simple design to it. What it does is make a local webserver and allows you to see all of your switches screenshots from the address given by your switch.
 
 ## Download
 This requires PyNX, which can be downloaded here:
