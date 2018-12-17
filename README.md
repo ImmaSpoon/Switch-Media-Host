@@ -32,4 +32,4 @@ I would love suggestions, and help with the gameids.dat file. There is not mass 
 If you would like to contact me, hit me up on discord: @spoon#2348. I don't really have anything else.
 
 ## Screenshots
-![Screenshot](https://doc-14-94-docs.googleusercontent.com/docs/securesc/1rp76vmplrbunlgcjs3veiml9s5oin62/94kk4sgtmfjv26evultm3ka2jqvis7tj/1545062400000/16921259497025424793/16921259497025424793/1RW7awpTz8YJof9pTQo8FU2JVbC6cQlAC?e=view&nonce=c4brfcmd585am&user=16921259497025424793&hash=k7hn1m6p94or64t9v87m0gd45petacb0)
+![Screenshot](Nintendo/resources/screenshot.png?raw=true)
