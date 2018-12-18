@@ -35,4 +35,5 @@ I would love suggestions, and help with the gameids.dat file. There is not mass 
 If you would like to contact me, hit me up on discord: @spoon#2348. I don't really have anything else.
 
 ## Screenshots
-![Screenshot](Nintendo/resources/screenshot.png?raw=true)
+![Screenshot](Nintendo/resources/screenshot1.png?raw=true)
+![Screenshot](Nintendo/resources/screenshot2.png?raw=true)
