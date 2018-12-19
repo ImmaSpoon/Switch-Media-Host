@@ -19,9 +19,7 @@ That's it!
 # Usage
 Once you have it installed, open PyNX from the hbmenu.
 
-Press the '../' until you reach the root directory (The '../' will disappear)
-
-Next, select the 'Switch Media Host.py' file and run.
+Open 'Switch Media Host.py'
 
 It should show a blank screen for 5-10 seconds, shouldn't take long.
 
