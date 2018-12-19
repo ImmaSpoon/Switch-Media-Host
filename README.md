@@ -32,7 +32,7 @@ Boom! You can see and download your screenshots easily.
 ## Contributing
 I would love suggestions, and help with the gameids.dat file. There is not mass list of this for some reason, so let's make it together <3
 
-If you would like to contact me, hit me up on discord: @spoon#2348. I don't really have anything else.
+If you would like to contact me, hit me up on discord: @spoon#1234. I don't really have anything else.
 
 ## Screenshots
 ![Screenshot](Nintendo/resources/screenshot1.png?raw=true)
