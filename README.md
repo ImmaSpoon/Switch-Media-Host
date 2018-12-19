@@ -37,3 +37,4 @@ If you would like to contact me, hit me up on discord: @spoon#1234. I don't real
 ## Screenshots
 ![Screenshot](Nintendo/resources/screenshot1.png?raw=true)
 ![Screenshot](Nintendo/resources/screenshot2.png?raw=true)
+![Screenshot](Nintendo/resources/screenshot3.jpg?raw=true)
