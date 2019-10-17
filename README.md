@@ -17,7 +17,8 @@
 <img src="SwitchMediaHost/viewall.png" width="100%" width="100%">
 Organize files by file type and game
 <img src="SwitchMediaHost/organize.png" width="100%" width="100%">
-Simple Custom Themes<a style="font-size: 8px;" href="#themes">Learn more</a><br>
+Simple Custom Themes
+<br><a style="font-size: 8px;" href="#themes">Learn more</a><br>
 <img src="SwitchMediaHost/defaultthemes.png" width="100%" width="100%">
 
 
