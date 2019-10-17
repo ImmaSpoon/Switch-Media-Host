@@ -1,5 +1,4 @@
 <p align="center"><img width="230" src="SwitchMediaHost/icon.png"></p>
-<p align="center" style="font-size: 30px; "> Switch Media Host </p>
 <p align="center" style="font-size: 20;"> Host your Switch media over LAN. <br><br></br>Screenshots<br>Videos<br>And SDCard Contents</p>
 
 ##
